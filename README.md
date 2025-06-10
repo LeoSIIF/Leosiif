@@ -1,4 +1,4 @@
-## Bem vindo!! Meu nome é Leonardo Fragoso, Estudante de Sistemas de Informação, deixei alguns repositórios de códigos no meu perfil!
+## Bem vindo!! Meu nome é Leonardo Fragoso, Bacharel em Sistemas de Informação, deixei alguns repositórios de códigos no meu perfil!
 <div align="center">
   <a href="https://github.com/LeoSIIF">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leosiif&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
